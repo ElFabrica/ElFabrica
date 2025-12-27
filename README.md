@@ -4,7 +4,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub!
 
 ## 🧑‍💻 Sobre mim
 
-- **Desenvolvedor Full Stack** focado em **Bubble.io**
+- **Desenvolvedor Full Stack** focado em **Javascript**
 - Estudando atualmente: **React** e **React Native**
 - Próximos planos: mergulhar em **Node.js**
 - É sempre bom transformar ideias em soluções reais, mesmo começando do básico.
