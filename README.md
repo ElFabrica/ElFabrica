@@ -30,7 +30,7 @@ Acredito que programar seja um desafio para muita gente, mas com motivação e a
 ## 🔗 Onde me encontrar
 
 - [GitHub](https://github.com/ElFabrica)
-- [Instagram](https://www.instagram.com/el.fabrica06_/)
+- [Instagram](https://www.instagram.com/arrthur06__/)
 
 ## 🎮 Curiosidades
 
