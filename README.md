@@ -19,7 +19,7 @@ O projeto do qual mais me orgulho! O **DT Money App** é um sistema de finanças
 
 > "Ganhar dinheiro de forma digna kkk, acho que uma motivação dessa é bastante razoável."
 
-Acredito que programação é muito mais sobre persistência do que talento. Com dedicação e constância, qualquer pessoa consegue transformar uma ideia em algo útil no mercado.
+Acredito que programação é muito mais sobre persistência do que talento. Com dedicação e constância, qualquer pessoa consegue resolver o problema de alguém de forma eficaz.
 
 ## 🛠️ Tecnologias e aprendizados
 
