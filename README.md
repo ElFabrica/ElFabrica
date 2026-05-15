@@ -28,6 +28,7 @@ Acredito que programação é muito mais sobre persistência do que talento. Com
 * **React Native**
 *  **Next.Js**
 * **Node.js**
+*  **Express.js**
 * **Java** (em aprendizado)
 * **DevOps** (em aprendizado)
 
