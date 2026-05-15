@@ -4,38 +4,34 @@ Seja bem-vindo(a) ao meu perfil do GitHub!
 
 ## 🧑‍💻 Sobre mim
 
-- **Desenvolvedor Full Stack** focado em **Javascript**
-- Estudando atualmente: **React** e **React Native**
-- Próximos planos: mergulhar em **Node.js**
-- É sempre bom transformar ideias em soluções reais, mesmo começando do básico.
+* **Desenvolvedor Full Stack** com total domínio em aplicações **JavaScript**
+* Experiência no desenvolvimento de aplicações modernas utilizando o ecossistema JS
+* Atualmente estudando **Java** e **DevOps**
+* Sempre buscando evoluir e transformar ideias em soluções reais
 
 ## 🚀 Projetos em destaque
 
-### [DT Money App](https://github.com/ElFabrica/dt-money-app)
-O projeto do qual mais me orgulho! O **DT Money App** é um sistema de finanças com autenticação, criação de entradas e saídas, utilizando API. Por mais que seja considerado básico, representa uma grande base para meus próximos projetos. Se você está lendo isso, provavelmente já pode ver o projeto finalizado!
+### Clone do Notion
+
+O projeto do qual mais me orgulho! O **DT Money App** é um sistema de finanças com autenticação, criação de entradas e saídas utilizando API. Mesmo sendo considerado um projeto de base, ele representa uma evolução enorme na minha jornada como desenvolvedor e serviu como ponto de partida para projetos mais robustos.
 
 ## 🎯 Motivação
 
 > "Ganhar dinheiro de forma digna kkk, acho que uma motivação dessa é bastante razoável."
 
-Acredito que programar seja um desafio para muita gente, mas com motivação e alguns anos de estudo, qualquer pessoa pode tirar uma solução do papel e inserir no mercado.
+Acredito que programação é muito mais sobre persistência do que talento. Com dedicação e constância, qualquer pessoa consegue transformar uma ideia em algo útil no mercado.
 
 ## 🛠️ Tecnologias e aprendizados
 
-- **Bubble.io** (Full Stack)
-- **React** (em aprendizado)
-- **React Native** (em aprendizado)
-- **Node.js** (na mira dos próximos estudos)
+* **JavaScript** (domínio completo)
+* **React**
+* **React Native**
+*  **Next.Js**
+* **Node.js**
+* **Java** (em aprendizado)
+* **DevOps** (em aprendizado)
 
-## 🔗 Onde me encontrar
 
-- [GitHub](https://github.com/ElFabrica)
-- [Instagram](https://www.instagram.com/arrthur06__/)
-
-## 🎮 Curiosidades
-
-- Gosto muito de jogar Souls Likes, e talvez esse seja um dos motivos para nunca desistir da área de tecnologia. Persistência é a chave!  
-- "Glória ao sol!!" ☀️
 
 ---
 
