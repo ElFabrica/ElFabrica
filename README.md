@@ -3,7 +3,7 @@
 
 Seja bem-vindo(a) ao meu perfil do GitHub!
 
-Sou **Desenvolvedor Full Stack JavaScript/TypeScript**, apaixonado por construir aplicações modernas, escaláveis e resolver problemas reais através da tecnologia.
+Sou **Desenvolvedor Full Stack JavaScript/TypeScript**, engajado a construir aplicações modernas, escaláveis e resolver problemas reais através da tecnologia.
 
 Atualmente atuo com desenvolvimento **web, mobile, backend, IA aplicada e infraestrutura**, sempre buscando evoluir tecnicamente e criar soluções de alto impacto.
 
