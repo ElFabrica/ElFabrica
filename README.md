@@ -59,6 +59,20 @@ Atualmente atuo com desenvolvimento **web, mobile, backend, IA aplicada e infrae
 - Integração de agentes e automações
 
 ---
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElFabrica&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElFabrica&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+> As porcentagens representam a distribuição de código presente nos repositórios do GitHub.
+
+
+---
 
 ## 🚀 Projetos em destaque
 
