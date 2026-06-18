@@ -35,11 +35,13 @@ Atualmente atuo com desenvolvimento **web, mobile, backend, IA aplicada e infrae
 
 ### Backend
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000?style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
 
 ### Cloud, DevOps & Infra
