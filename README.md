@@ -1,25 +1,24 @@
+# Hey Devs 👋
 
-# Fala Devs 👋
+Welcome to my GitHub profile!
 
-Seja bem-vindo(a) ao meu perfil do GitHub!
+I'm a **Full Stack JavaScript/TypeScript Developer**, passionate about building modern, scalable applications and solving real-world problems through technology.
 
-Sou **Desenvolvedor Full Stack JavaScript/TypeScript**, engajado a construir aplicações modernas, escaláveis e resolver problemas reais através da tecnologia.
-
-Atualmente atuo com desenvolvimento **web, mobile, backend, IA aplicada e infraestrutura**, sempre buscando evoluir tecnicamente e criar soluções de alto impacto.
+Currently, I work with **web, mobile, backend, AI-powered solutions, and infrastructure**, always striving to improve my skills and create impactful products.
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-💻 **1 ano e 9 meses de experiência profissional** no desenvolvimento de aplicações web e mobile
+💻 **1 year and 9 months of professional experience** developing web and mobile applications
 
-⚡ Especialista no ecossistema **JavaScript/TypeScript**
+⚡ Specialized in the **JavaScript/TypeScript ecosystem**
 
-🧠 Experiência prática com **Inteligência Artificial aplicada em produtos**
+🧠 Hands-on experience with **Artificial Intelligence applied to products**
 
-🐧 Entusiasta de **Linux, DevOps e Arquitetura de Software**
+🐧 Enthusiast of **Linux, DevOps, and Software Architecture**
 
-📚 Atualmente estudando **Java** e aprofundando conhecimentos em infraestrutura
+📚 Currently studying **Java** and expanding my knowledge in infrastructure and backend development
 
 ---
 
@@ -44,24 +43,23 @@ Atualmente atuo com desenvolvimento **web, mobile, backend, IA aplicada e infrae
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
 
-### Cloud, DevOps & Infra
+### Cloud, DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-...
 
-### IA & Automação
+### AI & Automation
 
-- **AI SDK**
-- **Gemini 2.5 Flash**
-- **Piper TTS**
-- Integração de agentes e automações
+- AI SDK
+- Gemini 2.5 Flash
+- Piper TTS
+- AI Agents & Automation Integrations
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -71,13 +69,13 @@ Atualmente atuo com desenvolvimento **web, mobile, backend, IA aplicada e infrae
 
 </div>
 
-> As porcentagens representam a distribuição de código presente nos repositórios do GitHub.
+> The percentages represent the distribution of code across repositories on GitHub.
 
 ---
 
-## 🎯 Nível de Experiência
+## 🎯 Experience Level
 
-### 🔥 Principal Stack
+### 🔥 Core Stack
 
 - TypeScript
 - JavaScript
@@ -86,47 +84,50 @@ Atualmente atuo com desenvolvimento **web, mobile, backend, IA aplicada e infrae
 - Node.js
 - PostgreSQL
 
-### ⚡ Experiência Profissional
+### ⚡ Professional Experience
 
 - React Native
 - Docker
 - Redis
 - Prisma ORM
 - Linux
-- Inteligência Artificial aplicada
+- Applied Artificial Intelligence
 
-### 📚 Em Evolução
+### 📚 Currently Learning
 
 - Java
 - Spring Boot
-- Arquitetura de Software
+- Software Architecture
 - DevOps
-- Sistemas Distribuídos
+- Distributed Systems
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Featured Projects
 
 ### 🧠 Notion Clone
 
-Editor colaborativo inspirado no Notion com sincronização em tempo real utilizando **Next.js + Convex**, gerenciamento de estado avançado e interface moderna.
+A collaborative editor inspired by Notion, featuring real-time synchronization using **Next.js + Convex**, advanced state management, and a modern user interface.
 
 ### 💰 DT Money App
 
-Aplicação de gestão financeira com autenticação de usuários, integração REST API e gerenciamento de entradas e saídas.
+A personal finance management application with user authentication, REST API integration, and income/expense tracking.
 
 ### 💬 Realtime Chat
 
-Chat em tempo real explorando **Redis + ElysiaJS**, focado em comunicação bidirecional e performance.
+A real-time chat application built with **Redis + ElysiaJS**, focused on bidirectional communication and high performance.
 
 ---
 
-## 🌐 Portfólio
+## 🌐 Portfolio
 
 🔗 **Portfolio:**  
 https://portfolio-snowy-seven-59.vercel.app/
 
 ---
 
-**Bora codar! 🚀**
-```
+### 📫 Let's Connect
+
+I'm always interested in discussing software engineering, backend architecture, AI-powered products, open-source projects, and new opportunities.
+
+**Happy coding! 🚀**
