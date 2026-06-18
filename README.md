@@ -50,6 +50,7 @@ Atualmente atuo com desenvolvimento **web, mobile, backend, IA aplicada e infrae
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+...
 
 ### IA & Automação
 
@@ -59,6 +60,7 @@ Atualmente atuo com desenvolvimento **web, mobile, backend, IA aplicada e infrae
 - Integração de agentes e automações
 
 ---
+
 ## 📊 Estatísticas GitHub
 
 <div align="center">
@@ -71,6 +73,35 @@ Atualmente atuo com desenvolvimento **web, mobile, backend, IA aplicada e infrae
 
 > As porcentagens representam a distribuição de código presente nos repositórios do GitHub.
 
+---
+
+## 🎯 Nível de Experiência
+
+### 🔥 Principal Stack
+
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- Node.js
+- PostgreSQL
+
+### ⚡ Experiência Profissional
+
+- React Native
+- Docker
+- Redis
+- Prisma ORM
+- Linux
+- Inteligência Artificial aplicada
+
+### 📚 Em Evolução
+
+- Java
+- Spring Boot
+- Arquitetura de Software
+- DevOps
+- Sistemas Distribuídos
 
 ---
 
