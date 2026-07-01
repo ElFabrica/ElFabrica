@@ -130,4 +130,7 @@ https://portfolio-snowy-seven-59.vercel.app/
 
 I'm always interested in discussing software engineering, backend architecture, AI-powered products, open-source projects, and new opportunities.
 
-**Happy coding! 🚀**
+*thanks for visiting*
+
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=ElFabrica&logo=github )
+
