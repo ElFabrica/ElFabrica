@@ -1,136 +1,53 @@
 # Hey Devs 👋
 
-Welcome to my GitHub profile!
-
-I'm a **Full Stack JavaScript/TypeScript Developer**, passionate about building modern, scalable applications and solving real-world problems through technology.
-
-Currently, I work with **web, mobile, backend, AI-powered solutions, and infrastructure**, always striving to improve my skills and create impactful products.
+Full Stack JavaScript/TypeScript Developer, com ~2 anos de experiência construindo aplicações web, mobile e soluções com IA aplicada a produtos reais.
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mim
 
-💻 **1 year and 9 months of professional experience** developing web and mobile applications
+💻 Especialista no ecossistema **JavaScript/TypeScript**, atuando em frontend, backend, mobile e infraestrutura
 
-⚡ Specialized in the **JavaScript/TypeScript ecosystem**
+🧠 Experiência prática com **IA aplicada a produtos** (RAG, chatbots, automações)
 
-🧠 Hands-on experience with **Artificial Intelligence applied to products**
+⚙️ Ownership de features completas em produtos comerciais em produção (catálogo, integrações de pagamento, autenticação)
 
-🐧 Enthusiast of **Linux, DevOps, and Software Architecture**
-
-📚 Currently studying **Java** and expanding my knowledge in infrastructure and backend development
+📚 Expandindo conhecimento em **Java/Spring Boot** e arquitetura de software com projetos próprios
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend:** React · Next.js · React Native/Expo · TypeScript · Tailwind CSS · shadcn/ui · Radix UI · TanStack Query/Table · React Hook Form · Zod · Zustand
+
+**Backend:** Node.js · PostgreSQL · Prisma · Redis · Supabase · NeonDB · Better Auth · oRPC · Java · Spring Boot · Spring Security (JWT) · RabbitMQ
+
+**Infra & DevOps:** Docker · Coolify · Vercel · Linux · Git · pnpm · Biome
+
+**Integrações:** Stripe · Asaas · AWS S3 · Pusher · Gemini Flash · AI SDK
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![ShadcnUI](https://img.shields.io/badge/Shadcn/UI-000?style=for-the-badge)
-
-### Backend
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![ElysiaJS](https://img.shields.io/badge/ElysiaJS-000?style=for-the-badge)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
-
-### Cloud, DevOps & Infrastructure
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-### AI & Automation
-
-- AI SDK
-- Gemini 2.5 Flash
-- Piper TTS
-- AI Agents & Automation Integrations
 
 ---
 
-## 📊 GitHub Statistics
+## 🌐 Portfólio
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElFabrica&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElFabrica&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-> The percentages represent the distribution of code across repositories on GitHub.
+🔗 https://portfolio-snowy-seven-59.vercel.app/
 
 ---
 
-## 🎯 Experience Level
+### 📫 Vamos conversar
 
-### 🔥 Core Stack
+Aberto a discutir engenharia de software, arquitetura backend, produtos com IA, projetos open-source e novas oportunidades.
 
-- TypeScript
-- JavaScript
-- React
-- Next.js
-- Node.js
-- PostgreSQL
+*obrigado pela visita*
 
-### ⚡ Professional Experience
-
-- React Native
-- Docker
-- Redis
-- Prisma ORM
-- Linux
-- Applied Artificial Intelligence
-
-### 📚 Currently Learning
-
-- Java
-- Spring Boot
-- Software Architecture
-- DevOps
-- Distributed Systems
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Notion Clone
-
-A collaborative editor inspired by Notion, featuring real-time synchronization using **Next.js + Convex**, advanced state management, and a modern user interface.
-
-### 💰 DT Money App
-
-A personal finance management application with user authentication, REST API integration, and income/expense tracking.
-
-### 💬 Realtime Chat
-
-A real-time chat application built with **Redis + ElysiaJS**, focused on bidirectional communication and high performance.
-
----
-
-## 🌐 Portfolio
-
-🔗 **Portfolio:**  
-https://portfolio-snowy-seven-59.vercel.app/
-
----
-
-### 📫 Let's Connect
-
-I'm always interested in discussing software engineering, backend architecture, AI-powered products, open-source projects, and new opportunities.
-
-*thanks for visiting*
-
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=ElFabrica&logo=github )
-
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=ElFabrica&logo=github)
